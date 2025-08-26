@@ -1,4 +1,3 @@
-Estructura de ejemplo para un archivo README.md. Después de crear tu actividad, puedes generar un archivo README reemplazando el texto instructivo en este archivo. Los ejemplos terminados se verán de manera similar a [este](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives_es).
 # Prática 01: Medición de Resistecia con Múltimetro Digital
 
 Añade una insignia de [Abrir en MATLAB&reg; Online&trade;](https://www.mathworks.com/products/matlab-online/git.html).
